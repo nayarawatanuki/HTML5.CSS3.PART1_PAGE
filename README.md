@@ -35,6 +35,8 @@ Foi trabalhado apenas nas questões visuais do projeto, com as seguintes aulas:
 - listas e divisões de conteúdo
 - finalizando a página
 
+Caso tenha interesse em visualizar o que foi realizado: [Barbearia Alura](https://nayarawatanuki.github.io/html5-css3-part1__page/)
+
 </br>
 
 ## :open_file_folder: Acesso ao projeto
