@@ -27,7 +27,13 @@ O objetivo do projeto é apenas aprender como fazer uma página.
 </br>
 
 ## :hammer: Funcionalidades e Demonstração da Aplicação
-Como o projeto é apenas visual, ou seja, trabalhado apenas no design, não há funções disponíveis.
+Foi trabalhado apenas nas questões visuais do projeto, com as seguintes aulas: 
+- marcação do primeiro texto
+- separando o conteúdo e informações
+- trabalhando com CSS
+- estilizando imagens
+- listas e divisões de conteúdo
+- finalizando a página
 
 </br>
 
