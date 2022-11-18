@@ -15,11 +15,7 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-Projeto concluído, desenvolvido para o curso de **HTML5 E CSS3 PARTE 1: CRIE UMA PAGINA DA WEB** da platforma [Alura](https://www.alura.com.br/). </br>
-O projeto Barbearia Alura, é uma proposta de página web para uma barbearia com objetivo de aprender a como fazer uma página. </br>
-Nesta parte do projeto foi realizada a construção da página `Home` (página inicial) do projeto.</br>
-
-</br>
+O projeto Barbearia Alura, é uma proposta de página web para uma barbearia com objetivo de aprender a como fazer uma página. Desenvolvido para o curso de **HTML5 E CSS3 PARTE 1: CRIE UMA PAGINA DA WEB** da platforma [Alura](https://www.alura.com.br/). </br>
 
 ## :white_circle: Status do Projeto
 > Projeto concluído :white_check_mark:
@@ -27,7 +23,7 @@ Nesta parte do projeto foi realizada a construção da página `Home` (página i
 </br>
 
 ## :hammer: Funcionalidades e Demonstração da Aplicação
-Nesta parte do projeto, foi realizada a construção da página `Home` (página inical), realizando as seguintes aulas: 
+Nesta parte, do projeto, foi realizada a construção da página `Home` (página inicial), realizando as seguintes aulas: 
 - marcação do primeiro texto
 - separando o conteúdo e informações
 - trabalhando com CSS
@@ -37,7 +33,7 @@ Nesta parte do projeto, foi realizada a construção da página `Home` (página 
 
 Caso tenha interesse em visualizar o que foi realizado: [Barbearia Alura](https://nayarawatanuki.github.io/html5-css3-part1__page/)
 </br></br>
-Caso queira ver o projeto completo: [Barbearia Alura - final](https://nayarawatanuki.github.io/html5-css3-part4__page/)
+Projeto completo: [Barbearia Alura - projeto completo](https://nayarawatanuki.github.io/html5-css3-part4__page/)
 
 </br>
 
