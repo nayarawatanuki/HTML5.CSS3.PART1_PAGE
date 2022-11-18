@@ -25,17 +25,13 @@ O projeto Barbearia Alura, é uma proposta de página web para uma barbearia com
 </br>
 
 ## :hammer: Funcionalidades e Demonstração da Aplicação
-Nesta parte, do projeto, foi realizada a construção da página `Home` (página inicial), realizando as seguintes aulas: 
+Nesta parte, do projeto, foi realizada a construção da página [`Home`](https://nayarawatanuki.github.io/html5-css3-part1__page/) (página inicial), realizando as seguintes aulas: 
 - marcação do primeiro texto
 - separando o conteúdo e informações
 - trabalhando com CSS
 - estilizando imagens
 - listas e divisões de conteúdo
 - finalizando a página
-
-Caso tenha interesse em visualizar o que foi realizado: [Barbearia Alura](https://nayarawatanuki.github.io/html5-css3-part1__page/)
-</br></br>
-Projeto completo: [Barbearia Alura - projeto completo](https://nayarawatanuki.github.io/html5-css3-part4__page/)
 
 </br>
 
@@ -51,13 +47,16 @@ Após baixar o projeto, você pode abrir com o VS Code. Para isso, abra o explor
 </br>
 
 ## :rocket: Abrir e rodar o projeto
-Visual do projeto disponível em: [Barbearia Alura](https://nayarawatanuki.github.io/html5-css3-part1__page/) 
+Caso tenha interesse em visualizar o que foi realizado: [Barbearia Alura](https://nayarawatanuki.github.io/html5-css3-part1__page/) 
 
 Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/html5-css3-part1__page/archive/refs/heads/main.zip).
 
 > Após baixar o projeto, abra a pasta do projeto (Caso o projeto seja baixado em zip, é necessário extraí-lo antes de abrir), então clique no:
 > - Aqruivo **``index.html``**
 > - O projeto abrirá em seu navegador padrão (aconselho configurar para o Chrome, se possível)
+
+</br></br>
+Projeto completo: [Barbearia Alura - projeto completo](https://nayarawatanuki.github.io/html5-css3-part4__page/)
 
 </br>
 
