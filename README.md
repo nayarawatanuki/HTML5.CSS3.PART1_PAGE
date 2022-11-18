@@ -16,7 +16,7 @@
 
 ## :pencil: Descrição do Projeto
 Projeto concluído, desenvolvido para o curso de **HTML5 E CSS3 PARTE 1: CRIE UMA PAGINA DA WEB** da platforma Alura. </br>
-O projeto Barbearia Alura, é uma proposta de página web para uma barbearia. </br>
+O projeto Barbearia Alura, é uma proposta de página web para uma barbearia. Nesta parte do projeto foi trabalhado apenas na página inicial (Home).</br>
 O objetivo do projeto é apenas aprender como fazer uma página.
 
 </br>
@@ -27,7 +27,7 @@ O objetivo do projeto é apenas aprender como fazer uma página.
 </br>
 
 ## :hammer: Funcionalidades e Demonstração da Aplicação
-Foi trabalhado apenas nas questões visuais do projeto, com as seguintes aulas: 
+Foi trabalhado apenas nas questões visuais, da página inical (Home), realizando as seguintes aulas: 
 - marcação do primeiro texto
 - separando o conteúdo e informações
 - trabalhando com CSS
