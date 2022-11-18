@@ -15,7 +15,9 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-O projeto Barbearia Alura, é uma proposta de página web para uma barbearia com objetivo de aprender a como fazer uma página. Desenvolvido para o curso de **HTML5 E CSS3 PARTE 1: CRIE UMA PAGINA DA WEB** da platforma [Alura](https://www.alura.com.br/). </br>
+O projeto Barbearia Alura, é uma proposta de página web para uma barbearia com objetivo de aprender a como fazer uma página. Desenvolvido para o curso de **HTML5 E CSS3 PARTE 1: CRIE UMA PAGINA DA WEB** da platforma [Alura](https://www.alura.com.br/). 
+
+</br>
 
 ## :white_circle: Status do Projeto
 > Projeto concluído :white_check_mark:
