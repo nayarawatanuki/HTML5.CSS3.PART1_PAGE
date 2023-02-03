@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Barbearia Alura" src="https://raw.githubusercontent.com/nayarawatanuki/html5-css3-part1__page/main/img/README.md/Barbearia%20Alura%20-slide.png"/>
+  <img alt="Barbearia Alura" src="https://raw.githubusercontent.com/nayarawatanuki/html5-css3-part1__page/main/img/README.md/Barbearia%20Alura%20-slide.png#vitrinedev"/>
 </h1>
 
 ### Índice
